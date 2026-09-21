@@ -1,0 +1,11 @@
+vn\iotstar\repository\UserRepository.class
+vn\iotstar\security\CustomUserDetailsService.class
+vn\iotstar\config\SecurityConfig.class
+vn\iotstar\SpringSecurityLoginApplication.class
+vn\iotstar\controller\AuthController.class
+vn\iotstar\config\DataInitializer.class
+vn\iotstar\controller\HomeController.class
+vn\iotstar\entity\User.class
+vn\iotstar\security\CustomUserDetails.class
+vn\iotstar\repository\RoleRepository.class
+vn\iotstar\entity\Role.class
